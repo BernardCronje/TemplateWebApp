@@ -1,0 +1,8 @@
+C:\Bernard\StartBootstrap\TemplateWebApp\TemplateWebApp\TemplateWebApp\bin\Debug\netcoreapp1.1\TemplateWebApp.deps.json
+C:\Bernard\StartBootstrap\TemplateWebApp\TemplateWebApp\TemplateWebApp\bin\Debug\netcoreapp1.1\TemplateWebApp.runtimeconfig.json
+C:\Bernard\StartBootstrap\TemplateWebApp\TemplateWebApp\TemplateWebApp\bin\Debug\netcoreapp1.1\TemplateWebApp.runtimeconfig.dev.json
+C:\Bernard\StartBootstrap\TemplateWebApp\TemplateWebApp\TemplateWebApp\bin\Debug\netcoreapp1.1\TemplateWebApp.dll
+C:\Bernard\StartBootstrap\TemplateWebApp\TemplateWebApp\TemplateWebApp\obj\Debug\netcoreapp1.1\TemplateWebApp.csprojResolveAssemblyReference.cache
+C:\Bernard\StartBootstrap\TemplateWebApp\TemplateWebApp\TemplateWebApp\obj\Debug\netcoreapp1.1\TemplateWebApp.csproj.CoreCompileInputs.cache
+C:\Bernard\StartBootstrap\TemplateWebApp\TemplateWebApp\TemplateWebApp\obj\Debug\netcoreapp1.1\TemplateWebApp.AssemblyInfoInputs.cache
+C:\Bernard\StartBootstrap\TemplateWebApp\TemplateWebApp\TemplateWebApp\obj\Debug\netcoreapp1.1\TemplateWebApp.AssemblyInfo.cs
