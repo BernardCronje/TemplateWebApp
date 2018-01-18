@@ -6,3 +6,6 @@ C:\Bernard\StartBootstrap\TemplateWebApp\TemplateWebApp\TemplateWebApp\obj\Debug
 C:\Bernard\StartBootstrap\TemplateWebApp\TemplateWebApp\TemplateWebApp\obj\Debug\netcoreapp1.1\TemplateWebApp.csproj.CoreCompileInputs.cache
 C:\Bernard\StartBootstrap\TemplateWebApp\TemplateWebApp\TemplateWebApp\obj\Debug\netcoreapp1.1\TemplateWebApp.AssemblyInfoInputs.cache
 C:\Bernard\StartBootstrap\TemplateWebApp\TemplateWebApp\TemplateWebApp\obj\Debug\netcoreapp1.1\TemplateWebApp.AssemblyInfo.cs
+C:\Bernard\StartBootstrap\TemplateWebApp\TemplateWebApp\TemplateWebApp\bin\Debug\netcoreapp1.1\TemplateWebApp.pdb
+C:\Bernard\StartBootstrap\TemplateWebApp\TemplateWebApp\TemplateWebApp\obj\Debug\netcoreapp1.1\TemplateWebApp.dll
+C:\Bernard\StartBootstrap\TemplateWebApp\TemplateWebApp\TemplateWebApp\obj\Debug\netcoreapp1.1\TemplateWebApp.pdb
